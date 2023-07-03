@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh-zwgiE-ACU79AwKqhf8Z3neYiyo0jphNA&usqp=CAU)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh-zwgiE-ACU79AwKqhf8Z3neYiyo0jphNA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Jaswanth</h1>
 <h3 align="center">A passionate Security Analyst and Web Developer</h3>
 <img align="center" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKktCw13sJWT2lWtyxeNSbW7UXzvNC1UxsgZ1cAz_Lrd9g_at-1towXn-N69NBUc6ROys&usqp=CAU"/>
